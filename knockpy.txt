@@ -1,0 +1,6 @@
+[1;36mlalamove.com[0m ['199.60.103.78', '199.60.103.178']
+http  [301, 'https://lalamove.com/', 'cloudflare']
+https [200, None, 'cloudflare']
+cert  [True, '2025-07-05']
+
+1 domains
